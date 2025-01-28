@@ -1,4 +1,4 @@
-# FASt API To Do List
+# FAST API To Do List
 
 ## For adding users and todo tasks
 
